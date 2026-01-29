@@ -87,5 +87,4 @@ Git, GitHub, Azure DevOps, Linux, PowerShell, Figma, WordPress
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mats914&show_icons=true&theme=default)
+## 💻 [GitHub](https://github.com/Mats914)
