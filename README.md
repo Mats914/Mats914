@@ -1,90 +1,95 @@
-
-
 # Hi 👋 I'm Mats Alleji
 
-🚀 Full-Stack Developer | Dynamics 365 & Power Platform  
+🚀 Junior Full-Stack Developer | React • TypeScript • Node.js • MongoDB  
 📍 Stockholm, Sweden  
 📧 mats.alleji@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mats-alleji/)  
+🌐 Portfolio: https://matsalleji.cloud  
 💻 [GitHub](https://github.com/Mats914)
 
 ---
 
 ## 👨‍💻 About Me
-I’m a motivated and responsible **Full-Stack Developer** with a strong interest in technology and problem-solving.  
-I enjoy working both independently and in teams, adapt quickly to new tasks, and stay productive even under pressure.  
-Service-minded, flexible, and always eager to learn new technologies.
+
+I am a Junior Full-Stack Developer with hands-on experience building modern web applications using React, TypeScript, Node.js, and MongoDB.
+
+I focus on clean, maintainable code and scalable REST APIs with secure authentication (JWT).  
+I enjoy solving real-world problems, learning new technologies, and contributing to structured Agile development environments.
+
+Microsoft Certified (AZ-900, AI-900, PL-900) with additional background in Python, AI fundamentals, and DevOps principles.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-C#, JavaScript, TypeScript, Python, PHP, SQL  
+### Frontend
+React • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
 
-**Frontend:**  
-React.js, Vue.js, HTML5, CSS3, Bootstrap, AJAX  
+### Backend
+Node.js • Express.js • REST APIs • JWT Authentication
 
-**Backend:**  
-Node.js, EJS, WebSockets  
+### Databases
+MongoDB • Firebase • SQLite • SQL (basic)
 
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, Firebase, Supabase  
+### AI & Python
+Python • Pandas • Scikit-learn • Jupyter Notebook
 
-**Cloud & Integration:**  
-Azure (App Services, Functions), Power Platform, API Integrations, Docker, AWS  
-
-**Dynamics & Microsoft:**  
-Dynamics 365 CRM, Power Apps, Power Automate, Power BI  
-
-**Tools:**  
-Git, GitHub, Azure DevOps, Linux, PowerShell, Figma, WordPress  
+### Tools & Cloud
+Git • GitHub • Postman • Docker (Foundations) • Azure Fundamentals • Agile/Scrum
 
 ---
 
 ## 💼 Experience
 
-### Full-Stack & Dynamics 365 Developer  
-**Own Projects & Internship** | Feb 2025 – Present  
-- Built integrations with external systems using APIs, Power Platform and Azure  
-- Developed and optimized Dynamics 365 CRM solutions  
+### Frontend Developer (Internship)  
+**Junico AB – Stockholm** | 2023  
+- Developed UI components in React for the redesign of *Lärform MENTOR*  
+- Collaborated with UX designer using Figma  
+- Improved mobile usability by 25%  
+🔗 [Project Repository](https://github.com/Mats914/LIA-Project-Mentor)
 
 ### SEO Specialist (Internship)  
-**Sveriges Talare – Stockholm** | Jan 2024 – May 2024  
-- Improved organic visibility using SEO strategies  
-- Competitor and keyword analysis with Semrush & HubSpot  
-
-### Frontend Developer (Internship)  
-**Junico AB – Stockholm** | Nov 2023 – Dec 2023  
-- Worked on redesign of *Lärform MENTOR* platform  
-- Improved mobile usability by **25%**  
-🔗 [Project Repository](https://github.com/Mats914/LIA-Project-Mentor)
+**Sveriges Talare – Stockholm** | 2024  
+- Performed keyword research and technical SEO optimization  
+- Improved organic visibility and site structure  
 
 ### IT Administrator & Technician  
 **Vetlanda & Eksjö Municipalities** | 2017 – 2022  
+- Managed IT support and system administration  
+- Contributed to IT security documentation and improvements  
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Full-Stack Web Application**  
+React • TypeScript • Node.js • MongoDB • JWT • i18n  
+🔗 https://github.com/Mats914/Fullstack-Web-Application  
+
+🔹 **Portfolio Website**  
+React • TypeScript • Tailwind  
+🔗 Live: https://matsalleji.cloud  
+🔗 Code: https://github.com/Mats914/my-portfolio  
+
+🔹 **Machine Learning Spam Detection**  
+Python • Scikit-learn  
+🔗 https://github.com/Mats914/Machine-learning  
 
 ---
 
 ## 🎓 Education
-- **Full-Stack Developer (JavaScript)** – IT-Högskolan, Stockholm (2022–2024)  
-- **Bachelor of Laws** – Der Elzor University, Syria (2009–2013)
+Full-Stack Developer (JavaScript) – IT-Högskolan (2022–2024)  
+Bachelor of Laws – Der Elzor University  
 
 ---
 
 ## 📜 Certifications
-- Microsoft Power Platform Fundamentals (PL-900)  
-- Microsoft Azure Fundamentals (AZ-900)  
-- Microsoft Azure AI Fundamentals (AI-900)  
-- Docker Foundations Professional Certificate  
-- Google AI Essentials  
-- HubSpot & Semrush Certifications  
+Microsoft Azure Fundamentals (AZ-900)  
+Microsoft Azure AI Fundamentals (AI-900)  
+Microsoft Power Platform Fundamentals (PL-900)  
 
 ---
 
 ## 🌍 Languages
-- 🇸🇪 Swedish – Fluent  
-- 🇬🇧 English – Advanced
-
----
-
-## 💻 [GitHub](https://github.com/Mats914)
+Swedish – Fluent  
+English – Advanced
