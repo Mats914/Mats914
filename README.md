@@ -16,7 +16,7 @@ I am a Junior Full-Stack Developer with hands-on experience building modern web 
 I focus on clean, maintainable code and scalable REST APIs with secure authentication (JWT).  
 I enjoy solving real-world problems, learning new technologies, and contributing to structured Agile development environments.
 
-Microsoft Certified (AZ-900, AI-900, PL-900) with additional background in Python, AI fundamentals, and DevOps principles.
+Microsoft Certified (AZ-204, AZ-900, AI-900, PL-900) with additional background in Python, AI fundamentals, and DevOps principles.
 
 ---
 
