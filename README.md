@@ -85,7 +85,6 @@ Bachelor of Laws – Der Elzor University
 
 ## 📜 Certifications
 Microsoft Azure Developer Associate (AZ-204)
-
 Microsoft Azure Fundamentals (AZ-900)  
 Microsoft Azure AI Fundamentals (AI-900)  
 Microsoft Power Platform Fundamentals (PL-900)  
