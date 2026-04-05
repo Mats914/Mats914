@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://matsalleji.cloud">🌐 Portfolio</a> •
-  <a href="https://linkedin.com">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mats-alleji/">💼 LinkedIn</a> •
   <a href="mailto:mats.alleji@hotmail.com">📧 Email</a>
 </p>
 
