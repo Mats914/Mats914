@@ -1,96 +1,117 @@
-# Hi 👋 I'm Mats Alleji
+<h1 align="center">Hi 👋 I'm Mats Alleji</h1>
+<h3 align="center">🚀 Junior Full-Stack Developer | Stockholm, Sweden</h3>
 
-🚀 Junior Full-Stack Developer | React • TypeScript • Node.js • MongoDB  
-📍 Stockholm, Sweden  
-📧 mats.alleji@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mats-alleji/)  
-🌐 Portfolio: https://matsalleji.cloud  
-💻 [GitHub](https://github.com/Mats914)
+<p align="center">
+  <a href="https://matsalleji.cloud">🌐 Portfolio</a> •
+  <a href="https://linkedin.com">💼 LinkedIn</a> •
+  <a href="mailto:mats.alleji@hotmail.com">📧 Email</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Junior Full-Stack Developer with hands-on experience building modern web applications using React, TypeScript, Node.js, and MongoDB.
+💻 Junior Full-Stack Developer with experience in building modern web applications using React, TypeScript, Node.js, and MongoDB.  
 
-I focus on clean, maintainable code and scalable REST APIs with secure authentication (JWT).  
-I enjoy solving real-world problems, learning new technologies, and contributing to structured Agile development environments.
+⚡ I focus on clean code, scalable REST APIs, and secure authentication (JWT).  
 
-Microsoft Certified (AZ-204, AZ-900, AI-900, PL-900) with additional background in Python, AI fundamentals, and DevOps principles.
+📚 Microsoft Certified (AZ-204, AZ-900, AI-900, PL-900) with background in Python, AI fundamentals, and DevOps.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-React • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+</p>
 
-### Backend
-Node.js • Express.js • REST APIs • JWT Authentication
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Databases
-MongoDB • Firebase • SQLite • SQL (basic)
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite,postgres" />
+</p>
 
-### AI & Python
-Python • Pandas • Scikit-learn • Jupyter Notebook
+### 🤖 AI & Python
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### Tools & Cloud
-Git • GitHub • Postman • Docker (Foundations) • Azure Fundamentals • Agile/Scrum
+### ☁️ Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,azure" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-### Frontend Developer (Internship)  
-**Junico AB – Stockholm** | 2023  
-- Developed UI components in React for the redesign of *Lärform MENTOR*  
-- Collaborated with UX designer using Figma  
+### 💻 Frontend Developer (Internship)
+**Junico AB – Stockholm | 2023**
+- Built UI components using React  
+- Collaborated with UX using Figma  
 - Improved mobile usability by 25%  
-🔗 [Project Repository](https://github.com/Mats914/LIA-Project-Mentor)
 
-### SEO Specialist (Internship)  
-**Sveriges Talare – Stockholm** | 2024  
-- Performed keyword research and technical SEO optimization  
-- Improved organic visibility and site structure  
+---
 
-### IT Administrator & Technician  
-**Vetlanda & Eksjö Municipalities** | 2017 – 2022  
-- Managed IT support and system administration  
-- Contributed to IT security documentation and improvements  
+### 🔍 SEO Specialist (Internship)
+**Sveriges Talare – Stockholm | 2024**
+- SEO optimization & keyword research  
+- Improved site visibility  
+
+---
+
+### 🛠 IT Administrator & Technician
+**Vetlanda & Eksjö | 2017 – 2022**
+- IT support & system administration  
+- Improved IT security processes  
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Full-Stack Web Application**  
-React • TypeScript • Node.js • MongoDB • JWT • i18n  
+### 🔹 Full-Stack Web App
+⚙️ React • TypeScript • Node.js • MongoDB • JWT  
 🔗 https://github.com/Mats914/Fullstack-Web-Application  
 
-🔹 **Portfolio Website**  
-React • TypeScript • Tailwind  
+---
+
+### 🔹 Portfolio Website
+🎨 React • TypeScript • Tailwind  
 🔗 Live: https://matsalleji.cloud  
 🔗 Code: https://github.com/Mats914/my-portfolio  
 
-🔹 **Machine Learning Spam Detection**  
-Python • Scikit-learn  
+---
+
+### 🔹 Machine Learning Spam Detection
+🤖 Python • Scikit-learn  
 🔗 https://github.com/Mats914/Machine-learning  
 
 ---
 
 ## 🎓 Education
-Full-Stack Developer (JavaScript) – IT-Högskolan (2022–2024)  
-Bachelor of Laws – Der Elzor University  
+
+🎓 Full-Stack Developer – IT-Högskolan (2022–2024)  
+🎓 Bachelor of Laws – Der Elzor University  
 
 ---
 
 ## 📜 Certifications
-Microsoft Azure Developer Associate (AZ-204)
-Microsoft Azure Fundamentals (AZ-900)  
-Microsoft Azure AI Fundamentals (AI-900)  
-Microsoft Power Platform Fundamentals (PL-900)  
+
+✔️ AZ-204 – Azure Developer  
+✔️ AZ-900 – Azure Fundamentals  
+✔️ AI-900 – AI Fundamentals  
+✔️ PL-900 – Power Platform  
 
 ---
 
 ## 🌍 Languages
-Swedish – Fluent  
-English – Advanced
+
+🇸🇪 Swedish – Fluent  
+🇬🇧 English – Advanced  
+
+---
